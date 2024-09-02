@@ -17,7 +17,7 @@
       src="https://img.shields.io/badge/vk-FFCAD6?logo=vk&logoColor=white&style=for-the-badge"
     />
   </a>
-  <a href="https://t.me/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/annakeat" target="_blank" rel="noopener noreferrer">
     <img
       alt="Telegram"
       src="https://img.shields.io/badge/telegram-FFB2C3?logo=telegram&logoColor=white&style=for-the-badge"

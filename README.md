@@ -57,14 +57,6 @@
     alt="UI/UX Design"
     src="https://img.shields.io/badge/UI%2FUX%20Design-FF8DAE?logo=figma&logoColor=white&style=for-the-badge"
   />
-  <img
-    alt="Python"
-    src="https://img.shields.io/badge/Python-F7648E?logo=python&logoColor=white&style=for-the-badge"
-  />
-  <img
-    alt="Java"
-    src="https://img.shields.io/badge/Java-C4426D?logo=java&logoColor=white&style=for-the-badge"
-  />
 </div>
 
 <p align="center">

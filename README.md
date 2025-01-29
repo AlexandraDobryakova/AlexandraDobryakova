@@ -59,11 +59,11 @@
   />
   <img
     alt="Dart"
-    src="https://img.shields.io/badge/Dart-FFB2C3?logo=dart&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/Dart-F7648E?logo=dart&logoColor=white&style=for-the-badge"
   />
   <img
     alt="Flutter"
-    src="https://img.shields.io/badge/Flutter-FF8DAE?logo=flutter&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/Flutter-C4426D?logo=flutter&logoColor=white&style=for-the-badge"
   />
 </div>
 

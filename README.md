@@ -57,6 +57,14 @@
     alt="UI/UX Design"
     src="https://img.shields.io/badge/UI%2FUX%20Design-FF8DAE?logo=figma&logoColor=white&style=for-the-badge"
   />
+  <img
+    alt="Dart"
+    src="https://img.shields.io/badge/Dart-FFB2C3?logo=dart&logoColor=white&style=for-the-badge"
+  />
+  <img
+    alt="Flutter"
+    src="https://img.shields.io/badge/Flutter-FF8DAE?logo=flutter&logoColor=white&style=for-the-badge"
+  />
 </div>
 
 <p align="center">

@@ -6,7 +6,7 @@
   <img src="https://github.com/AlexandraDobryakova/AlexandraDobryakova/blob/main/hearts-spin.gif" height="32" />
 </h1>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB2C3&center=true&width=435&lines=Mobile+Unity+game+developer+<3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB2C3&center=true&width=435&lines=Mobile+Unity+game+developer+%3C3" alt="Typing SVG" />
 </div>
 
 <div align="center">

@@ -5,6 +5,7 @@
   </span>
   <img src="https://github.com/AlexandraDobryakova/AlexandraDobryakova/blob/main/hearts-spin.gif" height="32" />
 </h1>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB2C3&center=true&width=435&lines=Mobile+Unity+game+developer+%3C3" alt="Typing SVG" />
 </div>
@@ -56,14 +57,6 @@
   <img
     alt="UI/UX Design"
     src="https://img.shields.io/badge/UI%2FUX%20Design-FF8DAE?logo=figma&logoColor=white&style=for-the-badge"
-  />
-  <img
-    alt="Dart"
-    src="https://img.shields.io/badge/Dart-F7648E?logo=dart&logoColor=white&style=for-the-badge"
-  />
-  <img
-    alt="Flutter"
-    src="https://img.shields.io/badge/Flutter-C4426D?logo=flutter&logoColor=white&style=for-the-badge"
   />
 </div>
 
